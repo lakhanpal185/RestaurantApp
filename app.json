@@ -5,6 +5,11 @@
       "bundler": "metro"
     },
     "name": "AnimatedApp",
-    "slug": "AnimatedApp"
+    "slug": "AnimatedApp",
+    "extra": {
+      "eas": {
+        "projectId": "71e17ac1-2337-4e6f-a6fe-56a76c055ae7"
+      }
+    }
   }
 }
